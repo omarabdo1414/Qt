@@ -1,20 +1,52 @@
-# Qt Projects Collection
-Welcome to the Qt Projects Collection repository, a vibrant assembly of innovative applications developed with the Qt framework. This repository serves as a hub for exploring, learning, and contributing to projects utilizing the robust features of Qt for creating cross-platform applications ranging from desktop software to embedded systems.
+# Tesla Infotainment System UI
 
-## What is Qt?
-Qt is a free and open-source widget toolkit for developing graphical user interfaces and cross-platform applications that run on a variety of software and hardware platforms, including Linux, Windows, macOS, Android, and embedded systems, with little or no change to the underlying codebase, while remaining a native application with native capabilities and speed.
+A user interface prototype for a Tesla infotainment system developed in QML and C++ with Qt. The UI design includes various screens and interactive elements such as a map display, lock status, temperature, and audio control. 
 
-## Repository Structure
-This repository is organized by project type and complexity:
+## Features
 
-- Beginner Projects: Simple applications designed for newcomers to Qt. These projects cover basic concepts, widget usage, and simple applications.
-- Intermediate Projects: Applications and examples that introduce more complex concepts, integration with databases, and network programming.
-- Advanced Projects: Comprehensive applications demonstrating the use of Qt in professional-grade software, including 3D rendering, multithreading, and mobile app development.
-- Utilities and Tools: A collection of utility programs and tools developed with Qt that can assist in development or serve various practical purposes.
-- Experimental: This section includes projects that explore cutting-edge features of Qt, experimental UI/UX designs, or integration with other technologies and frameworks.
+- **Main Window Layout**: Combines three main components—Bottom Bar, Right Screen (Map), and Left Screen (Car Render).
+- **Map Integration**: Displays a map focused on Beni-Suef, Egypt, with zoom and display controls.
+- **Status Display**:
+  - Car lock/unlock indicator with clickable icon.
+  - Current date and time display.
+  - Outdoor temperature display.
+  - User profile display with a user icon and name.
+- **Temperature and Audio Control**: 
+  - `HVACHandler`: Manages in-car temperature.
+  - `AudioController`: Manages audio volume.
+
+## Project Structure
+
+- **QML Components**:
+  - `BottomBar`, `RightScreen`, and `LeftScreen` are imported and structured within the `Window`.
+  - `RightScreen` contains a map element, car lock icon, and a navigation search bar.
+- **C++ Classes**:
+  - `System`: Manages the car's lock status, temperature, and user information.
+  - `HVACHandler`: Adjusts temperature settings.
+  - `AudioController`: Controls volume levels.
+
+## Getting Started
+
+1. **Install Qt and Dependencies**:
+   - [Download Qt](https://www.qt.io/download).
+2. **Run the Project**:
+   - Clone the repository:
+     ```bash
+     git clone https://github.com/omarabo1414/Qt-Projects.git
+     ```
+   - Open the project in Qt Creator.
+   - Build and run.
+
+## Code Overview
+
+- **Main QML File**: Combines the UI elements and sets layout and anchor configurations.
+- **System Class**: Provides QML bindings for car lock, temperature, and user information.
+- **HVACHandler & AudioController Classes**: Provide temperature and audio controls, accessible from QML.
+
+## Screenshots
+
+![Tesla Infotainment UI](Tesla_Infotanment/End_UI/Screenshot 2024-10-29 224006)
 
 ## Contributing
-We warmly welcome contributions to the Qt Projects Collection! Whether you're fixing bugs, adding new projects, or improving documentation, your help is valuable. Please read the CONTRIBUTING.md file for guidelines on how to contribute.
 
-## Support
-If you have questions, suggestions, or need help with any of the projects, feel free to open an issue or start a discussion. 
+If you’d like to contribute, feel free to fork the repository, make your changes, and submit a pull request.

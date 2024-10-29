@@ -1,0 +1,12 @@
+--resource
+C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Replacement_for_Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.qt/rcc/qmake_Tesla_Infotanment.qrc
+--resource
+C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Replacement_for_Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.qt/rcc/appTesla_Infotanment_raw_qml_0.qrc
+/qt/qml/Tesla_Infotanment/Main.qml
+/qt/qml/Tesla_Infotanment/ui/BottomBar/BottomBar.qml
+/qt/qml/Tesla_Infotanment/ui/RightScreen/RightScreen.qml
+/qt/qml/Tesla_Infotanment/ui/LeftScreen/LeftScreen.qml
+/qt/qml/Tesla_Infotanment/ui/RightScreen/NavigationSearchBar.qml
+/qt/qml/Tesla_Infotanment/ui/BottomBar/HVACComponent.qml
+/qt/qml/Tesla_Infotanment/BottomBar/VolumController.qml
+/qt/qml/Tesla_Infotanment/ui/BottomBar/VolumController.qml

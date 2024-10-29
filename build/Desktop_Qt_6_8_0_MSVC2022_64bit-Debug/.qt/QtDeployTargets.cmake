@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appTesla_Infotanment_FILE C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/appTesla_Infotanment.exe)
+set(__QT_DEPLOY_TARGET_appTesla_Infotanment_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appTesla_Infotanment_RUNTIME_DLLS C:/Qt/6.8.0/msvc2022_64/bin/Qt6Quickd.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6QmlMetad.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6QmlWorkerScriptd.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6QmlModelsd.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Qmld.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Networkd.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6OpenGLd.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Guid.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Cored.dll)
