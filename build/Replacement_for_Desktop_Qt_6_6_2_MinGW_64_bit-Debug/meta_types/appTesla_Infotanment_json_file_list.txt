@@ -1,3 +1,0 @@
-C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Replacement_for_Desktop_Qt_6_6_2_MinGW_64_bit-Debug/appTesla_Infotanment_autogen/include/../XUX5SSWLF5/moc_audiocontroller.cpp.json
-C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Replacement_for_Desktop_Qt_6_6_2_MinGW_64_bit-Debug/appTesla_Infotanment_autogen/include/../XUX5SSWLF5/moc_hvachandler.cpp.json
-C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Replacement_for_Desktop_Qt_6_6_2_MinGW_64_bit-Debug/appTesla_Infotanment_autogen/include/../XUX5SSWLF5/moc_system.cpp.json
