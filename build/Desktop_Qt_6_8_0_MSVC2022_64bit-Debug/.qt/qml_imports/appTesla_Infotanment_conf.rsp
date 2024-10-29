@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment
+-cmake-output
+-output-file
+C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/qml_imports/appTesla_Infotanment_conf.cmake
+-importPath
+C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/Tesla_Infotanment
+-importPath
+C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug
+-importPath
+C:/Qt/6.8.0/msvc2022_64/qml
+-qrcFiles
+C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qmake_Tesla_Infotanment.qrc
+C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/appTesla_Infotanment_raw_qml_0.qrc

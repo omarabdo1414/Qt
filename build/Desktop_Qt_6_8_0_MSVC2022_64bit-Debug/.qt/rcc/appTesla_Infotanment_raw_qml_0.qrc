@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="/qt/qml/Tesla_Infotanment/">
+    <file alias="Main.qml">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/Main.qml</file>
+    <file alias="ui/BottomBar/BottomBar.qml">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/BottomBar/BottomBar.qml</file>
+    <file alias="ui/RightScreen/RightScreen.qml">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/RightScreen/RightScreen.qml</file>
+    <file alias="ui/LeftScreen/LeftScreen.qml">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/LeftScreen/LeftScreen.qml</file>
+    <file alias="ui/RightScreen/NavigationSearchBar.qml">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/RightScreen/NavigationSearchBar.qml</file>
+    <file alias="ui/BottomBar/HVACComponent.qml">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/BottomBar/HVACComponent.qml</file>
+    <file alias="BottomBar/VolumController.qml">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/BottomBar/VolumController.qml</file>
+    <file alias="ui/BottomBar/VolumController.qml">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/BottomBar/VolumController.qml</file>
+    <file alias="ui/asstes/CarRender.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/CarRender.png</file>
+    <file alias="ui/asstes/CarRender.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/CarRender.png</file>
+    <file alias="ui/asstes/carIcon.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/carIcon.png</file>
+    <file alias="ui/asstes/padlock.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/padlock.png</file>
+    <file alias="ui/asstes/padlock-unlock.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/padlock-unlock.png</file>
+    <file alias="ui/asstes/user.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/user.png</file>
+    <file alias="ui/asstes/searchBox.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/searchBox.png</file>
+    <file alias="ui/asstes/search.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/search.png</file>
+    <file alias="ui/asstes/Tesla_logo.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/Tesla_logo.png</file>
+    <file alias="ui/asstes/high-volume.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/high-volume.png</file>
+    <file alias="ui/asstes/mute.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/mute.png</file>
+    <file alias="ui/asstes/volume-down.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/volume-down.png</file>
+    <file alias="ui/asstes/volume-up.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/volume-up.png</file>
+    <file alias="ui/asstes/low-volume.png">C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/ui/asstes/low-volume.png</file>
+  </qresource>
+</RCC>
+

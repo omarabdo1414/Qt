@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6a7d0794f5f7ad1153a5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tesla_Infotanment",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-fc8019a2fb9cb9e13748.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e7609c4783eabdfa7098.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8f687f5fab013d0d7159.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-62bffef27b2849b839af.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-522e9e0c6242fd0a93c1.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTesla_Infotanment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTesla_Infotanment-Debug-c4eb1c853aec18634e0c.json",
+					"name" : "appTesla_Infotanment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTesla_Infotanment_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTesla_Infotanment_autogen-Debug-219cbf04badd9584e1c4.json",
+					"name" : "appTesla_Infotanment_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTesla_Infotanment_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTesla_Infotanment_autogen_timestamp_deps-Debug-97534f1fff7868e82e23.json",
+					"name" : "appTesla_Infotanment_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTesla_Infotanment_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTesla_Infotanment_qmlimportscan-Debug-50c19deb71159c59cdb8.json",
+					"name" : "appTesla_Infotanment_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTesla_Infotanment_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTesla_Infotanment_qmllint-Debug-b61669562fda67b8abc4.json",
+					"name" : "appTesla_Infotanment_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTesla_Infotanment_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTesla_Infotanment_qmllint_json-Debug-8407b24850a5ca63a148.json",
+					"name" : "appTesla_Infotanment_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTesla_Infotanment_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTesla_Infotanment_qmllint_module-Debug-dfd79a7cfe55b18085ca.json",
+					"name" : "appTesla_Infotanment_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTesla_Infotanment_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTesla_Infotanment_qmltyperegistration-Debug-db4e3045ec4f45d816d2.json",
+					"name" : "appTesla_Infotanment_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTesla_Infotanment_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTesla_Infotanment_tooling-Debug-e78ac10dcbf8f90cc60b.json",
+					"name" : "appTesla_Infotanment_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appTesla_Infotanment_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appTesla_Infotanment_aotstats_targets-Debug-f76716f877e858f83554.json",
+					"name" : "module_appTesla_Infotanment_aotstats_targets",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/Maydoum/OneDrive/Documents/Tesla_Infotanment"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
